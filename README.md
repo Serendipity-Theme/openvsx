@@ -1,20 +1,18 @@
 ![Midnight](https://raw.githubusercontent.com/Serendipity-Theme/assets/main/githubHeader.png)
 
-# Serendipity for [Platform]
+# Serendipity on Open VSX Registry
 
 
 # Installation
 
-1. Open **X**.
-2. Search for **X**
-3. Click **X** to do **X**
+1. Follow this link https://open-vsx.org/?search=serendipity&category=&sortBy=relevance&sortOrder=desc
+
 
 # Screenshots Under this heading
-![VS Code](https://raw.githubusercontent.com/Serendipity-Theme/vs-code/master/sunset.png)
+![VS Code](https://pbs.twimg.com/media/FKLc_GYXwAYMvXt?format=jpg&name=4096x4096)
 
 # Who ported the theme?
+- Michael Andreuzza
 
-# Standard formatting
-- Add the same header on the repo
-- Call the repo as the app you are porting for.
+
 
