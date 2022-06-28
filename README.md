@@ -9,7 +9,7 @@
 
 
 # Screenshots Under this heading
-![VS Code](https://pbs.twimg.com/media/FKLc_GYXwAYMvXt?format=jpg&name=4096x4096)
+![VS Code](https://github.com/Serendipity-Theme/openvsx/blob/main/openvs.png?raw=true)
 
 # Who ported the theme?
 - Michael Andreuzza
